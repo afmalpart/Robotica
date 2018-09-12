@@ -1,0 +1,7 @@
+/home/africa/Escritorio/robotica/Robotica/build-ejemplo1-Desktop-Default/CMakeFiles/install/strip.dir
+/home/africa/Escritorio/robotica/Robotica/build-ejemplo1-Desktop-Default/CMakeFiles/edit_cache.dir
+/home/africa/Escritorio/robotica/Robotica/build-ejemplo1-Desktop-Default/CMakeFiles/ejemplo1.dir
+/home/africa/Escritorio/robotica/Robotica/build-ejemplo1-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/africa/Escritorio/robotica/Robotica/build-ejemplo1-Desktop-Default/CMakeFiles/list_install_components.dir
+/home/africa/Escritorio/robotica/Robotica/build-ejemplo1-Desktop-Default/CMakeFiles/install/local.dir
+/home/africa/Escritorio/robotica/Robotica/build-ejemplo1-Desktop-Default/CMakeFiles/install.dir
